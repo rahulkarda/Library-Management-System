@@ -6,8 +6,6 @@ The site is live at : https://bookmanagerbyrahul.netlify.app/
 <a target="_blank" href="https://bookmanagerbyrahul.netlify.app/">
           <img src="https://github.com/rahulkarda/Library-Management-System/blob/master/images/bookmanager.jpg?raw=true" width="100%" alt="Book Manager App"/>
 </a>
-<br>
-
 
 ## Tech Stack Used
 

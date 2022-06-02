@@ -1,5 +1,5 @@
 ## Library Management System
-A simple library management system app made using vanilla JS and Web Storage API to store the books issued. Admin can add a field with the type of book, author and with the name of the issuer who issued that book and can delete that field once the books is returned. Admin can search the books with author and name of the issuer using the search bar.
+A simple Library Management System App made using vanilla JS and Web Storage API to store the books issued. Admin can add a field with the type of book, author and with the name of the issuer who issued that book and can delete that field once the books is returned. Admin can search the books with author and name of the issuer using the search bar.
 
 The site is live at : https://bookmanagerbyrahul.netlify.app/
 
